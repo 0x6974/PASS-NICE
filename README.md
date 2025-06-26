@@ -8,6 +8,7 @@ NICE 본인인증 자동화 파이썬 스크립트입니다.
 > - Telegram: @sunr1s2_0
 > - Discord: @necynice_
 
+# 연락처
 > - discord: [@0x6974](https://discord.com/users/1309479077799006212)
 
 ## 필독사항
